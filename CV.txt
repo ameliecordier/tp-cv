@@ -12,17 +12,13 @@ CV de l'étudiant Modèle
       (_).-'    \
      / /         .
 
-
 Nom : Modèle
 Prénom : Etudiant
 Page web : http://etu.univ-lyon1.fr/etudiant.modele/
-
-
 Expérience professionnelle : 
 * Saisonnier en Vendée
 * Stage chez Yahoo
 * Stage chez Google
-
 Langues : 
 * Français : langue maternelle 
 * Anglais : lu, parlé, écrit. TOEIC passé en 2014. 
