@@ -1,0 +1,5 @@
+CV de l'étudiant Modèle
+
+Nom : Modèle
+Prénom : Etudiant
+Page web : http://etu.univ-lyon1.fr/etudiant.modele/
