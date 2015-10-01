@@ -1,4 +1,4 @@
-CV de l'étudiant Modèle
+CV de l'Ã©tudiant ModÃ¨le
 
        ,-.-.-.-,
         )     (
@@ -13,17 +13,18 @@ CV de l'étudiant Modèle
      / /         .
 
 
-Nom : Modèle
-Prénom : Etudiant
+Nom : ModÃ¨le
+PrÃ©nom : Etudiant
 Page web : http://etu.univ-lyon1.fr/etudiant.modele/
 
 
-Expérience professionnelle : 
-* Saisonnier en Vendée
+ExpÃ©rience professionnelle : 
+* Marchand de crÃªpes en Bretagne
+* Saisonnier en VendÃ©e
 * Stage chez Yahoo
 * Stage chez Google
 * Stage chez Oracle
 
 Langues : 
-* Français : langue maternelle 
-* Anglais : lu, parlé, écrit. TOEIC passé en 2014. 
+* FranÃ§ais : langue maternelle 
+* Anglais : lu, parlÃ©, Ã©crit. TOEIC passÃ© en 2014. 
